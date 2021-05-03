@@ -1,0 +1,21 @@
+[
+    {
+        "firstname": "Tanvir",
+        "lastname": "Hussain",
+        "birthday":"1",
+        "birthmonth":"April",
+        "birthyear":"1993",
+        "email": "th",
+        "password": "123456"
+    },
+
+    {
+        "firstname": "Drake",
+        "lastname": "CallMe",
+        "birthday":"1",
+        "birthmonth":"May",
+        "birthyear":"1993",
+        "email": "dk",
+        "password": "123456"
+    }
+]
